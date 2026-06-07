@@ -1,0 +1,25 @@
+# данные и результаты экспериментов
+data/
+artifacts/
+
+# кэши и окружение
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# веса и признаки
+*.pt
+*.pth
+*.npy
+*.ckpt
+
+# логи и tensorboard
+*.log
+runs/
+
+# IDE / ОС
+.idea/
+.vscode/
+.DS_Store

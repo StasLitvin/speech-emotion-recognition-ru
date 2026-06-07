@@ -1,0 +1,15 @@
+torch>=2.2
+torchaudio>=2.2
+transformers>=4.44,<5
+datasets>=2.19
+soundfile>=0.12.1      # backend для torchaudio.load на Windows
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.4
+imbalanced-learn>=0.12
+matplotlib>=3.8
+seaborn>=0.13
+tqdm>=4.66
+tensorboard>=2.16
+gradio>=4.44
+scipy>=1.11
